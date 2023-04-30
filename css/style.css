@@ -57,7 +57,7 @@ body {
   line-height: 1.5;
   color: #212529;
   text-align: left;
-  background-color: #fff; }
+  background-color: #000000; }
 
 [tabindex="-1"]:focus {
   outline: 0 !important; }
@@ -425,7 +425,7 @@ code {
 kbd {
   padding: 0.2rem 0.4rem;
   font-size: 87.5%;
-  color: #fff;
+  color: #000000;
   background-color: #212529;
   border-radius: 0.2rem; }
   kbd kbd {
